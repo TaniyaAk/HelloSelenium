@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="1" >
+    <test name="Method HW" verbose="1">
+<!--        <parameter name = "emailID" value = "iidgfdfgfdood2040tt@moss5.com"></parameter>-->
+<!--        <parameter name = "password" value = "PW1234"></parameter>-->
+    <parameter name = "name" value = "Taniya"></parameter>
+            <classes>
+                <class name = "com.testng.parametertests.TestMethodPara"/>
+            </classes>
+    </test>
+
+
+</suite>

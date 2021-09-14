@@ -1,4 +1,4 @@
-package com.taniya;
+package com.taniya.basics;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

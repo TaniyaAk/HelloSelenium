@@ -1,4 +1,4 @@
-package com.taniya;
+package com.taniya.basics;
 
 //A palindrome is a word, phrase, number, or other sequence of units that may be read the same way in either direction,
 // generally if used comma, separators or other word dividers are ignored.

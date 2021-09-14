@@ -1,4 +1,4 @@
-package com.taniya;
+package com.taniya.basics;
 
 import java.nio.charset.StandardCharsets;
 import java.sql.SQLOutput;

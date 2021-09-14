@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite2" verbose="1" >
+    <test name="first test framework">
+        <parameter name = "email" value = "taniya@abc.com"></parameter>
+        <parameter name = "firstName" value = "Taniya"></parameter>
+        <parameter name = "lastName" value = "Akter"></parameter>
+        <classes>
+            <class name = "com.testngparam.frameworks.RegisterationPageParamOneTest"/>
+        </classes>
+    </test>
+
+</suite>

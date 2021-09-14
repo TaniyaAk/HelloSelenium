@@ -1,4 +1,4 @@
-package com.taniya;
+package com.taniya.basics;
 
 
 import org.openqa.selenium.WebDriver;

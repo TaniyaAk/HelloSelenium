@@ -1,4 +1,4 @@
-package com.taniya;
+package com.taniya.basics;
 import java.util.Arrays;
 import java.util.TreeSet;
 
